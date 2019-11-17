@@ -18,8 +18,9 @@ I am currently in my third year reading towards a PhD in applied mathematics at 
 
 - **Address** <br/>
 Room 1.134, <br/> 
-Department of Mathematics, <br/> 
+Alan Turing Building, <br/> 
 The University of Manchester, <br/> 
+Oxford Road, <br/> 
 Manchester. <br/> 
 M13 9PL.
 
