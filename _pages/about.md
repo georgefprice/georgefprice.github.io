@@ -14,7 +14,7 @@ I am currently in my third year reading towards a PhD in applied mathematics at 
 
 ## Contact Details
 
-- **Email** george.price @ manchester.ac.uk
+- **Email** george.price@manchester.ac.uk
 
 - **Address** <br/>
 Room 1.134, <br/> 
