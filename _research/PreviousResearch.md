@@ -1,5 +1,5 @@
 ---
-title: "Current Research"
+title: "Previous Research"
 excerpt: "## Masters in Mathematics (MMATH) - The University of Manchester (2013-2017)
 
 - Attained a First Class degree in a Masters in Mathematics (MMATH) with honours
