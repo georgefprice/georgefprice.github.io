@@ -3,7 +3,7 @@ title: "Previous Teaching"
 collection: teaching
 type: "Undergraduate courses"
 venue: "The University of Manchester"
-date: 2019
+date: 2019.01.01
 excerpt: "
 - **Mathematical Biology** ([MATH35032](https://my.manchester.ac.uk/uPortal/p/course-unit-info.ctf1/max/render.uP?pP_location=%2FCourseUnitPublishing%2FCourseUnitDataFiles%2FMATH%2F022565MATH350322019-09-091V12.xml&pP_action=viewCUDetails)) - A course about the applications of mathematical methods to current questions within biology within the department of mathematics.
 
