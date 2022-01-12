@@ -1,6 +1,10 @@
 ---
 title: "Previous Research"
-excerpt: "## PhD Thesis - Modelling of solute transport past a disordered uptake field
+excerpt: "## Phd in Applied Mathematics - The University of Manchester (2017-2021)
+
+**Modelling of solute transport past a disordered uptake field**
+
+Supervisors: 
 
 Abstract:
 
@@ -34,7 +38,11 @@ collection: research
 ---
 
 
-## PhD Thesis - Modelling of solute transport past a disordered uptake field
+## Phd in Applied Mathematics - The University of Manchester (2017-2021)
+
+**Modelling of solute transport past a disordered uptake field**
+
+Supervisors:
 
 Abstract:
 
