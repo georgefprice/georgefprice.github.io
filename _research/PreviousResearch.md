@@ -2,9 +2,9 @@
 title: "Previous Research"
 excerpt: "## Phd in Applied Mathematics - The University of Manchester (2017-2021)
 
-Thesis Title: Modelling of Solute Transport Past a Disordered Uptake Field
-
 Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor Chernyavsky](http://math-biophys.info/wiki/)
+
+Thesis Title: Modelling of Solute Transport Past a Disordered Uptake Field
 
 Abstract:
 
@@ -38,9 +38,9 @@ collection: research
 
 ## Phd in Applied Mathematics - The University of Manchester (2017-2021)
 
-Thesis Title: Modelling of Solute Transport Past a Disordered Uptake Field
-
 Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor Chernyavsky](http://math-biophys.info/wiki/)
+
+Thesis Title: Modelling of Solute Transport Past a Disordered Uptake Field
 
 Abstract:
 
