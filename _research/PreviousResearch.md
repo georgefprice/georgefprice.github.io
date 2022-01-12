@@ -4,7 +4,7 @@ excerpt: "## Phd in Applied Mathematics - The University of Manchester (2017-202
 
 **Modelling of solute transport past a disordered uptake field**
 
-Supervisors: 
+Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor Chernyavsky](http://math-biophys.info/wiki/)
 
 Abstract:
 
@@ -42,7 +42,7 @@ collection: research
 
 **Modelling of solute transport past a disordered uptake field**
 
-Supervisors:
+Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor Chernyavsky](http://math-biophys.info/wiki/)
 
 Abstract:
 
