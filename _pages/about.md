@@ -10,18 +10,16 @@ redirect_from:
 
 ## About
 
-I am currently in my fourth year reading towards a PhD in applied mathematics at The University of Manchester. My PhD supervisor is [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and co-supervisor is [Dr Igor Chernyavsky](http://math-biophys.info/wiki/). I also co-organise the weekly student [Informal Applied Seminar](http://events.manchester.ac.uk/calendar/tag:ser-se-maths-appliedinformal/), where PhD students in applied mathematics discuss their research within the department. On top of this, I am the current treasurer for the [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/), which promotes applied mathematics and computational science to both undergraduate and postgraduate university students through a variety of events.
+Attained a PhD in Applied Mathematics at The University of Manchester, where I was supervised by [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor Chernyavsky](http://math-biophys.info/wiki/). I previously co-organised the weekly student [Informal Applied Seminar](http://events.manchester.ac.uk/calendar/tag:ser-se-maths-appliedinformal/), where PhD students in applied mathematics discuss their research within the department, and acted as treasurer for the [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/), which promotes applied mathematics and computational science to both undergraduate and postgraduate university students through a variety of events.
 
 ## Contact Details
 
-- **Email** george.price@manchester.ac.uk
+- **Email** george.price@nicheconsult.co.uk
 
 - **Address** <br/>
-Room 1.134, <br/> 
-Alan Turing Building, <br/> 
-The University of Manchester, <br/> 
-Oxford Road, <br/> 
-Manchester. <br/> 
-M13 9PL.
+4th Floor, Trafford House, <br/> 
+Chester Rd, <br/> 
+Old Trafford, <br/> 
+M32 0RS.
 
 - **[LinkedIn](https://uk.linkedin.com/in/gfprice)**
