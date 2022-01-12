@@ -2,7 +2,7 @@
 title: "Previous Research"
 excerpt: "## Solute Transport Past a Disordered Uptake Field
 
-Throughout my PhD I researched solute transport past disordered uptake fields, which has applications to complex biological organs such as the human placenta and lungs.  By using an [alternative approach](https://academic.oup.com/imamat/advance-article/doi/10.1093/imamat/hxz004/5324989) to homogenization, the uncertainty in net solute transfer in models of physiological transport can be quantified. I focused on a distinguished limit where an advection-uptake balance exists on the microscale and an advection-diffusion balance exists on the macroscale, which causes concentration fields to become non-smooth, with boundary layers forming within the domain.
+Throughout my PhD I researched solute transport past disordered uptake fields, which has applications to complex biological organs such as the human placenta and lungs.  By using an [alternate approach to homogenization](https://academic.oup.com/imamat/advance-article/doi/10.1093/imamat/hxz004/5324989), the uncertainty in net solute transfer in models of physiological transport can be quantified. I focused on a distinguished limit where an advection-uptake balance exists on the microscale and an advection-diffusion balance exists on the macroscale, which causes concentration fields to become non-smooth, with boundary layers forming within the domain.
 
 <br/>
 
@@ -28,7 +28,7 @@ collection: research
 
 ## Solute Transport Past a Disordered Uptake Field
 
-Throughout my PhD I researched solute transport past disordered uptake fields, which has applications to complex biological organs such as the human placenta and lungs.  By using an [alternative approach](https://academic.oup.com/imamat/advance-article/doi/10.1093/imamat/hxz004/5324989) to homogenization, the uncertainty in net solute transfer in models of physiological transport can be quantified. I focused on a distinguished limit where an advection-uptake balance exists on the microscale and an advection-diffusion balance exists on the macroscale, which causes concentration fields to become non-smooth, with boundary layers forming within the domain.
+Throughout my PhD I researched solute transport past disordered uptake fields, which has applications to complex biological organs such as the human placenta and lungs.  By using an [alternate approach to homogenization](https://academic.oup.com/imamat/advance-article/doi/10.1093/imamat/hxz004/5324989), the uncertainty in net solute transfer in models of physiological transport can be quantified. I focused on a distinguished limit where an advection-uptake balance exists on the microscale and an advection-diffusion balance exists on the macroscale, which causes concentration fields to become non-smooth, with boundary layers forming within the domain.
 
 <br/>
 
