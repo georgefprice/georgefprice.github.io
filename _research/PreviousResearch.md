@@ -1,6 +1,6 @@
 ---
 title: "Previous Research"
-excerpt: "## Phd Thesis: Modelling of Solute Transport Past a Disordered Uptake Field
+excerpt: "## Phd Thesis - Modelling of Solute Transport Past a Disordered Uptake Field (The University of Manchester, 2017-2021)
 
 Abstract:
 
@@ -16,7 +16,7 @@ Key fields - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptoti
 
 Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/)
 
-## Masters Project - Vibrations of the Trachea During Phonation and How They Occur
+## Masters Project - Vibrations of the Trachea During Phonation (The University of Manchester, 2016-2017)
 
 Abstract:
 
@@ -24,17 +24,17 @@ During phonations the trachea walls vibrate to create sound. In this project we 
 
 Supervisor: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/)
 
-## Graphene Summer Internship - The University of Manchester (2016)
+## Summer Internship - The Optimal Composition of a Graphene-Polymer Sheet Which Reduces Material Deformation (The University of Manchester, 2016)
 
- Abstract:
+Abstract:
  
-We will consider the structural properties of a graphene sheet which is bounded to a polymer layer and suspended over a microscopic cavity. This project will examine how varying the composition of a graphene-polymer sheet result in different vibrations when placing the composite material under pressure. We consider varying both the thickness and stiffness of the polymer to deduce the optimal composition which prevents bending in the material.
+We will consider the structural properties of a graphene sheet which is bounded to a polymer layer and suspended over a microscopic cavity. This project will examine how varying the composition of a graphene-polymer sheet result in different vibrations when placing the composite material under pressure. We consider varying both the thickness and stiffness of the polymer to deduce the optimal composition which prevents deformation in the material.
 
 Supervisors: [Dr. Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff/gareth.jones-10/) and [Prof. William J. Parnell](https://www.research.manchester.ac.uk/portal/william.j.parnell.html)"
 
 ---
 
-## Phd Thesis: Modelling of Solute Transport Past a Disordered Uptake Field
+## Phd Thesis - Modelling of Solute Transport Past a Disordered Uptake Field (The University of Manchester, 2017-2021)
 
 Abstract:
 
@@ -50,7 +50,7 @@ Key fields - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptoti
 
 Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/)
 
-## Masters Project - Vibrations of the Trachea During Phonation and How They Occur
+## Masters Project - Vibrations of the Trachea During Phonation (The University of Manchester, 2016-2017)
 
 Abstract:
 
@@ -58,10 +58,10 @@ During phonations the trachea walls vibrate to create sound. In this project we 
 
 Supervisor: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/)
 
-## Graphene Summer Internship - The University of Manchester (2016)
+## Summer Internship - The Optimal Composition of a Graphene-Polymer Sheet Which Reduces Material Deformation (The University of Manchester, 2016)
 
- Abstract:
+Abstract:
  
-We will consider the structural properties of a graphene sheet which is bounded to a polymer layer and suspended over a microscopic cavity. This project will examine how varying the composition of a graphene-polymer sheet result in different vibrations when placing the composite material under pressure. We consider varying both the thickness and stiffness of the polymer to deduce the optimal composition which prevents bending in the material.
+We will consider the structural properties of a graphene sheet which is bounded to a polymer layer and suspended over a microscopic cavity. This project will examine how varying the composition of a graphene-polymer sheet result in different vibrations when placing the composite material under pressure. We consider varying both the thickness and stiffness of the polymer to deduce the optimal composition which prevents deformation in the material.
 
 Supervisors: [Dr. Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff/gareth.jones-10/) and [Prof. William J. Parnell](https://www.research.manchester.ac.uk/portal/william.j.parnell.html)
