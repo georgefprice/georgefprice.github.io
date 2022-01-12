@@ -1,10 +1,6 @@
 ---
 title: "Previous Research"
-excerpt: "## Phd in Applied Mathematics - The University of Manchester (2017-2021)
-
-Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/)
-
-Thesis Title: Modelling of Solute Transport Past a Disordered Uptake Field
+excerpt: "## Phd Thesis: Modelling of Solute Transport Past a Disordered Uptake Field
 
 Abstract:
 
@@ -18,29 +14,20 @@ Finally, we consider using a continuous sink function described by a Gaussian pr
 
 Key fields - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena).
 
-## Masters in Mathematics (MMATH) - The University of Manchester (2013-2017)
+## Masters Project - Vibrations of the Trachea During Phonation and How They Occur
 
-- Attained a First Class degree in a Masters in Mathematics (MMATH) with honours
+Abstract:
 
--	Undertook a research project on [Phonation](https://en.wikipedia.org/wiki/Phonation) with [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/).
-
-- Researched various fields of applied mathematics, including [Wave Motion](https://en.wikipedia.org/wiki/Wave), [Fluid Mechanics](https://en.wikipedia.org/wiki/Fluid_mechanics), [Elasticity](https://en.wikipedia.org/wiki/Elasticity_(physics)), [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system), [Stability Theory](https://en.wikipedia.org/wiki/Stability_theory), [Mathematical Biology](https://en.wikipedia.org/wiki/Modelling_biological_systems) and [Matrix Analysis](https://en.wikipedia.org/wiki/Matrix_analysis).
-
-- Also undertook courses in statistics and pure mathematics.
+During phonations the trachea walls vibrate to create sound. In this project we will consider the different motions of trachea walls caused by releasing the trachea with different initial widths and speeds. The impact of varying flow rates and elasticities will be incorporated. We will seek to capture how the trachea vibrates or if the trachea is expected to collapse. We consider an initial model which captures tracheal oscillations in the absence of drag [(Gavriely & Jensen, 1993)](https://journals.physiology.org/doi/abs/10.1152/jappl.1993.74.6.2828?casa_token=fiUhUlVFzLoAAAAA:5gL6yIO8A9GnZdMiHWtLFFVBAOZPHnrk8cs_0wtTHt1Nr6G-4gM4v9En2n_C2xlGai-CKrdXski_). This model is then modified and expanded upon to produce a more accurate and complex idea as to how the trachea behaves during phonation. To do this, the flow of air will be modelled differently along with the inclusion of drag force.
 
 ## Graphene Summer Internship - The University of Manchester (2016)
 
-  -	Researched structural properties of graphene using [solid mechanics](https://en.wikipedia.org/wiki/Solid_mechanics) and [Plate Theory](https://en.wikipedia.org/wiki/Plate_theory) with [Dr Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff/gareth.jones-10/)."
-collection: research
+  -	Researched structural properties of graphene using [solid mechanics](https://en.wikipedia.org/wiki/Solid_mechanics) and [Plate Theory](https://en.wikipedia.org/wiki/Plate_theory) with [Dr. Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff/gareth.jones-10/) and [Prof. William J. Parnell](https://www.research.manchester.ac.uk/portal/william.j.parnell.html)
 
 ---
 
 
-## Phd in Applied Mathematics - The University of Manchester (2017-2021)
-
-Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/)
-
-Thesis Title: Modelling of Solute Transport Past a Disordered Uptake Field
+## Phd Thesis: Modelling of Solute Transport Past a Disordered Uptake Field
 
 Abstract:
 
@@ -54,16 +41,12 @@ Finally, we consider using a continuous sink function described by a Gaussian pr
 
 Key fields - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena).
 
-## Masters in Mathematics (MMATH) - The University of Manchester (2013-2017)
+## Masters Project - Vibrations of the Trachea During Phonation and How They Occur
 
-- Attained a First Class degree in a Masters in Mathematics (MMATH) with honours
+Abstract:
 
--	Undertook a research project on [Phonation](https://en.wikipedia.org/wiki/Phonation) with [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/).
-
-- Researched various fields of applied mathematics, including [Wave Motion](https://en.wikipedia.org/wiki/Wave), [Fluid Mechanics](https://en.wikipedia.org/wiki/Fluid_mechanics), [Elasticity](https://en.wikipedia.org/wiki/Elasticity_(physics)), [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system), [Stability Theory](https://en.wikipedia.org/wiki/Stability_theory), [Mathematical Biology](https://en.wikipedia.org/wiki/Modelling_biological_systems) and [Matrix Analysis](https://en.wikipedia.org/wiki/Matrix_analysis).
-
-- Also undertook courses in statistics and pure mathematics.
+During phonations the trachea walls vibrate to create sound. In this project we will consider the different motions of trachea walls caused by releasing the trachea with different initial widths and speeds. The impact of varying flow rates and elasticities will be incorporated. We will seek to capture how the trachea vibrates or if the trachea is expected to collapse. We consider an initial model which captures tracheal oscillations in the absence of drag [(Gavriely & Jensen, 1993)](https://journals.physiology.org/doi/abs/10.1152/jappl.1993.74.6.2828?casa_token=fiUhUlVFzLoAAAAA:5gL6yIO8A9GnZdMiHWtLFFVBAOZPHnrk8cs_0wtTHt1Nr6G-4gM4v9En2n_C2xlGai-CKrdXski_). This model is then modified and expanded upon to produce a more accurate and complex idea as to how the trachea behaves during phonation. To do this, the flow of air will be modelled differently along with the inclusion of drag force.
 
 ## Graphene Summer Internship - The University of Manchester (2016)
 
-  -	Researched structural properties of graphene using [solid mechanics](https://en.wikipedia.org/wiki/Solid_mechanics) and [Plate Theory](https://en.wikipedia.org/wiki/Plate_theory) with [Dr Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff/gareth.jones-10/).
+  -	Researched structural properties of graphene using [solid mechanics](https://en.wikipedia.org/wiki/Solid_mechanics) and [Plate Theory](https://en.wikipedia.org/wiki/Plate_theory) with [Dr. Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff/gareth.jones-10/) and [Prof. William J. Parnell](https://www.research.manchester.ac.uk/portal/william.j.parnell.html).
