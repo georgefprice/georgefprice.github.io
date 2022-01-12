@@ -20,7 +20,7 @@ Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/sta
 
 Abstract:
 
-During phonations the trachea walls vibrate to create sound. In this project we will consider the different motions of trachea walls caused by releasing the trachea with different initial widths and speeds. The impact of varying flow rates and elasticities will be incorporated. We will seek to capture how the trachea vibrates or if the trachea is expected to collapse. We consider an initial model which captures stable tracheal oscillations [(Gavriely & Jensen, 1993)](https://journals.physiology.org/doi/abs/10.1152/jappl.1993.74.6.2828?casa_token=fiUhUlVFzLoAAAAA:5gL6yIO8A9GnZdMiHWtLFFVBAOZPHnrk8cs_0wtTHt1Nr6G-4gM4v9En2n_C2xlGai-CKrdXski_). This model is then modified to consider the influence of different air-flows and introducing a drag force on the trachea walls.
+During phonation the trachea walls vibrate to create sound. In this project we will consider the different motions of trachea walls caused by releasing the trachea with different initial widths and speeds. The impact of varying flow rates and elasticities will be incorporated. We will seek to capture how the trachea vibrates or if the trachea is expected to collapse. We consider an initial model which captures stable tracheal oscillations [(Gavriely & Jensen, 1993)](https://journals.physiology.org/doi/abs/10.1152/jappl.1993.74.6.2828?casa_token=fiUhUlVFzLoAAAAA:5gL6yIO8A9GnZdMiHWtLFFVBAOZPHnrk8cs_0wtTHt1Nr6G-4gM4v9En2n_C2xlGai-CKrdXski_). This model is then modified to consider the influence of different air-flows and a drag force on the trachea walls.
 
 Supervisor: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/)
 
@@ -28,7 +28,7 @@ Supervisor: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staf
 
 Abstract:
  
-We will consider the structural properties of a graphene sheet which is bounded to a polymer layer and suspended over a microscopic cavity. This project will examine how varying the composition of a graphene-polymer sheet result in different vibrations when placing the composite material under pressure. We consider varying both the thickness and stiffness of the polymer to deduce the optimal composition which prevents deformation in the material.
+We will consider the structural properties of a graphene sheet which is bonded to a polymer layer and suspended over a microscopic cavity. This project will examine how varying the composition of a graphene-polymer sheet results in different vibrations when placing the composite material under pressure. We consider varying both the thickness and stiffness of the polymer to deduce the optimal composition which prevents deformation in the material.
 
 Supervisors: [Dr. Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff/gareth.jones-10/) and [Prof. William J. Parnell](https://www.research.manchester.ac.uk/portal/william.j.parnell.html)"
 
@@ -54,7 +54,7 @@ Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/sta
 
 Abstract:
 
-During phonations the trachea walls vibrate to create sound. In this project we will consider the different motions of trachea walls caused by releasing the trachea with different initial widths and speeds. The impact of varying flow rates and elasticities will be incorporated. We will seek to capture how the trachea vibrates or if the trachea is expected to collapse. We consider an initial model which captures stable tracheal oscillations [(Gavriely & Jensen, 1993)](https://journals.physiology.org/doi/abs/10.1152/jappl.1993.74.6.2828?casa_token=fiUhUlVFzLoAAAAA:5gL6yIO8A9GnZdMiHWtLFFVBAOZPHnrk8cs_0wtTHt1Nr6G-4gM4v9En2n_C2xlGai-CKrdXski_). This model is then modified to consider the influence of different air-flows and introducing a drag force on the trachea walls.
+During phonation the trachea walls vibrate to create sound. In this project we will consider the different motions of trachea walls caused by releasing the trachea with different initial widths and speeds. The impact of varying flow rates and elasticities will be incorporated. We will seek to capture how the trachea vibrates or if the trachea is expected to collapse. We consider an initial model which captures stable tracheal oscillations [(Gavriely & Jensen, 1993)](https://journals.physiology.org/doi/abs/10.1152/jappl.1993.74.6.2828?casa_token=fiUhUlVFzLoAAAAA:5gL6yIO8A9GnZdMiHWtLFFVBAOZPHnrk8cs_0wtTHt1Nr6G-4gM4v9En2n_C2xlGai-CKrdXski_). This model is then modified to consider the influence of different air-flows and a drag force on the trachea walls.
 
 Supervisor: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/)
 
@@ -62,6 +62,6 @@ Supervisor: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staf
 
 Abstract:
  
-We will consider the structural properties of a graphene sheet which is bounded to a polymer layer and suspended over a microscopic cavity. This project will examine how varying the composition of a graphene-polymer sheet result in different vibrations when placing the composite material under pressure. We consider varying both the thickness and stiffness of the polymer to deduce the optimal composition which prevents deformation in the material.
+We will consider the structural properties of a graphene sheet which is bonded to a polymer layer and suspended over a microscopic cavity. This project will examine how varying the composition of a graphene-polymer sheet results in different vibrations when placing the composite material under pressure. We consider varying both the thickness and stiffness of the polymer to deduce the optimal composition which prevents deformation in the material.
 
 Supervisors: [Dr. Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff/gareth.jones-10/) and [Prof. William J. Parnell](https://www.research.manchester.ac.uk/portal/william.j.parnell.html)
