@@ -24,7 +24,7 @@ During phonation the trachea walls vibrate to create sound. In this project we w
 
 Supervisor: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/)
 
-## Summer Internship - The Optimal Composition of a Graphene-Polymer Sheet in Order to Reduce Material Deformation (The University of Manchester, 2016)
+## Summer Internship - Reducing Material Deformation in a Composite Graphene-Polymer Sheet (The University of Manchester, 2016)
 
 Abstract:
  
@@ -58,7 +58,7 @@ During phonation the trachea walls vibrate to create sound. In this project we w
 
 Supervisor: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/)
 
-## Summer Internship - The Optimal Composition of a Graphene-Polymer Sheet in Order to Reduce Material Deformation (The University of Manchester, 2016)
+## Summer Internship - Reducing Material Deformation in a Composite Graphene-Polymer Sheet (The University of Manchester, 2016)
 
 Abstract:
  
