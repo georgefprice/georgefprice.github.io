@@ -14,7 +14,7 @@ Finally, we consider using a continuous sink function described by a Gaussian pr
 
 Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/) <br/>
 
-Keywords - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena).
+Keywords - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena)."
 
 ## Masters Project - Vibrations of the Trachea During Phonation (The University of Manchester, 2016-2017)
 
