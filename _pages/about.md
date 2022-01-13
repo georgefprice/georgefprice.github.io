@@ -13,7 +13,7 @@ Attained a PhD in Applied Mathematics at The University of Manchester, where my 
 
 ## Qualifications
 
-- **Phd in Applied Mathematics** (The University of Manchester, 2017-2021)
+- **PhD in Applied Mathematics** (The University of Manchester, 2017-2021)
 - **Masters in Mathematics (MMATH)** - First Class with honours (The University of Manchester, 2013-2017)
 
 ## Contact Details
