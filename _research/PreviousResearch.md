@@ -14,7 +14,7 @@ Finally, we consider using a continuous sink function described by a Gaussian pr
 
 Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/) <br/>
 
-Keywords - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena)."
+Keywords - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena).
 
 ## Masters Project - Vibrations of the Trachea During Phonation (The University of Manchester, 2016-2017)
 
@@ -30,7 +30,7 @@ Abstract: <br/>
  
 We will consider the structural properties of a graphene sheet which is bonded to a polymer layer and suspended over a microscopic cavity. This project will examine how varying the composition of a graphene-polymer sheet results in different vibrations when placing the composite material under pressure. We consider varying both the thickness and stiffness of the polymer to deduce the optimal composition which prevents deformation in the material. <br/>
 
-Supervisors: [Dr. Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff/gareth.jones-10/) and [Prof. William J. Parnell](https://www.research.manchester.ac.uk/portal/william.j.parnell.html)" <br/>
+Supervisors: [Dr. Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff/gareth.jones-10/) and [Prof. William J. Parnell](https://www.research.manchester.ac.uk/portal/william.j.parnell.html) <br/>"
 
 ---
 
