@@ -1,6 +1,6 @@
 ---
 title: "Previous Research"
-excerpt: "## Phd Thesis - Modelling of Solute Transport Past a Disordered Uptake Field (The University of Manchester, 2017-2021)
+excerpt: "## PhD Thesis - Modelling of Solute Transport Past a Disordered Uptake Field (The University of Manchester, 2017-2021)
 
 Abstract:<br/>
 
@@ -34,7 +34,7 @@ Supervisors: [Dr. Gareth Wyn Jones](https://personalpages.manchester.ac.uk/staff
 
 ---
 
-## Phd Thesis - Modelling of Solute Transport Past a Disordered Uptake Field (The University of Manchester, 2017-2021)
+## PhD Thesis - Modelling of Solute Transport Past a Disordered Uptake Field (The University of Manchester, 2017-2021)
 
 Abstract: <br/>
 
