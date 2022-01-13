@@ -12,9 +12,9 @@ Next, we consider a more direct approach that quantifies the impact of a disorde
 
 Finally, we consider using a continuous sink function described by a Gaussian process with both Gaussian and exponential covariance functions in one, two and three dimensions. For asymptotically large correlation lengths, non-local corrections in the moments-based approach are readily evaluated and provide an upper bound on the variance of solute distributions. For asymptotically small correlation lengths the (co)variance of corrections is simplified using a delta-function approximation, allowing an effective uptake parameter to be used to predict the expected concentration. The uniformly random sink covariance function is shown to be Gaussian in two and three spatial dimensions, allowing the effective uptake parameter to be calculated. Its use is illustrated using two applications: solute transport within maternal blood through the intervillous space of the placenta and oxygen uptake by mitochondria within placental tissue. <br/>
 
-Key fields - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena). <br/>
+Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/) <br/>
 
-Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/)
+Keywords - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena).
 
 ## Masters Project - Vibrations of the Trachea During Phonation (The University of Manchester, 2016-2017)
 
@@ -46,9 +46,9 @@ Next, we consider a more direct approach that quantifies the impact of a disorde
 
 Finally, we consider using a continuous sink function described by a Gaussian process with both Gaussian and exponential covariance functions in one, two and three dimensions. For asymptotically large correlation lengths, non-local corrections in the moments-based approach are readily evaluated and provide an upper bound on the variance of solute distributions. For asymptotically small correlation lengths the (co)variance of corrections is simplified using a delta-function approximation, allowing an effective uptake parameter to be used to predict the expected concentration. The uniformly random sink covariance function is shown to be Gaussian in two and three spatial dimensions, allowing the effective uptake parameter to be calculated. Its use is illustrated using two applications: solute transport within maternal blood through the intervillous space of the placenta and oxygen uptake by mitochondria within placental tissue. <br/>
 
-Key fields - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena). <br/>
+Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/) <br/>
 
-Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/)
+Keywords - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena).
 
 ## Masters Project - Vibrations of the Trachea During Phonation (The University of Manchester, 2016-2017)
 
