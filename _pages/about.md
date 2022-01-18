@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About
-Attained a PhD in Applied Mathematics at The University of Manchester, where my thesis title was 'Modelling of Solute Transport Past a Disordered Uptake Field'. My supervisor and co-supervisor were [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/) respectively. I previously co-organised the weekly student [Informal Applied Seminar](http://events.manchester.ac.uk/calendar/tag:ser-se-maths-appliedinformal/), where PhD students in applied mathematics discuss their research within the department. I also acted as treasurer for the [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/), which promotes applied mathematics and computational science to both undergraduate and postgraduate university students through a variety of events.
+Attained a PhD in Applied Mathematics at The University of Manchester, where my thesis title was 'Modelling of Solute Transport Past a Disordered Uptake Field'. My supervisor and co-supervisor were [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr. Igor L. Chernyavsky](http://math-biophys.info/wiki/) respectively. I previously co-organised the weekly student [Informal Applied Seminar](http://events.manchester.ac.uk/calendar/tag:ser-se-maths-appliedinformal/), where PhD students in applied mathematics discuss their research within the department. I also acted as treasurer for the [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/), which promotes applied mathematics and computational science to both undergraduate and postgraduate university students through a variety of events.
 
 ## Qualifications
 
