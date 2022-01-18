@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "George Price"
+title: "Dr. George F. Price"
 excerpt: "Professional profile"
 author_profile: true
 redirect_from: 
