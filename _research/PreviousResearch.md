@@ -22,7 +22,7 @@ Finally, we consider using a continuous sink function described by a Gaussian pr
 
  
 
-Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/)
+Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr. Igor L. Chernyavsky](http://math-biophys.info/wiki/)
 
  
 
@@ -76,7 +76,7 @@ Finally, we consider using a continuous sink function described by a Gaussian pr
 
  
 
-Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr Igor L. Chernyavsky](http://math-biophys.info/wiki/)
+Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr. Igor L. Chernyavsky](http://math-biophys.info/wiki/)
 
  
 
