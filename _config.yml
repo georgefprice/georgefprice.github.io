@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Dr. George F. Price"
+title                    : "George Price"
 title_separator          : "-"
-name                     : &name "George Price"
+name                     : &name "Dr. George F. Price"
 description              : &description "Data Scientist - Niche Health & Social Care Consulting"
 url                      : https://georgefprice.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
