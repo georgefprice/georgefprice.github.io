@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "George Price"
+title                    : "Dr. George F. Price"
 title_separator          : "-"
 name                     : &name "George Price"
 description              : &description "Data Scientist - Niche Health & Social Care Consulting"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "George Price"
+  name             : "Dr. George F. Price"
   avatar           : "Me2.png"
   bio              : "Data Scientist - Niche Health & Social Care Consulting"
   location         : "Manchester"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=mfvQbTYAAAAJ&view_op=list_works&gmla=AJsN-F7vzeILl1qT6jIEO9RWooDRidnPuKnkqpeq3Z-xXubZYtx1mJ-UO3AIKmbcJELAXi4G6r_26jBSZmC1mGfKZq7oWbL9ytAIY27VgAx0_PfscY4eBGs"
   email            : "george.price@nicheconsult.co.uk"
   researchgate     : 
   uri              :
