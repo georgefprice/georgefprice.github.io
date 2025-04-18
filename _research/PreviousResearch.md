@@ -21,7 +21,6 @@ excerpt: "## PhD Thesis - [Modelling of Solute Transport Past a Disordered Uptak
 
 Abstract:
 
- 
 
 Solute transport often takes place in spatially complex domains with inherently heterogeneous structures, such as in biological tissue and geophysical flows. Due to the complexity of transport networks a variety of mathematical problems exist across a range of lengthscales. We seek to characterise the effect of disordered multiscale spatial structures on solute uptake in the presence of advection and diffusion.
 
