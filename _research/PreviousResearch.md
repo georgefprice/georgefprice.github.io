@@ -17,7 +17,7 @@ Keywords - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_
 
 
 
-excerpt: "## PhD Thesis - [Modelling of Solute Transport Past a Disordered Uptake Field](https://www.proquest.com/openview/609829995a22d771799a9f3d76e210ef/1?cbl=51922&diss=y&pq-origsite=gscholar) (The University of Manchester, 2017-2021)
+## PhD Thesis - [Modelling of Solute Transport Past a Disordered Uptake Field](https://www.proquest.com/openview/609829995a22d771799a9f3d76e210ef/1?cbl=51922&diss=y&pq-origsite=gscholar) (The University of Manchester, 2017-2021)
 
 Abstract:
 
