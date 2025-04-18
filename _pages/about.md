@@ -11,7 +11,7 @@ redirect_from:
 ## About
 Data Scientist, previously employed at [Niche Health & Social Care Consulting](https://www.nicheconsult.co.uk), specialising in capacity and demand modelling, strategic analytics, and interactive dashboard development to support NHS services across the UK. Projects focus on transforming healthcare data into actionable insights that improve patient care and system efficiency.
 
-Completed a PhD in Applied Mathematics at The University of Manchester, with research centred on modelling solute transport in complex systems. Thesis titled "Modelling of Solute Transport Past a Disordered Uptake Field," supervised by [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr. Igor L. Chernyavsky](http://math-biophys.info/wiki/).
+Completed a PhD in Applied Mathematics at The University of Manchester, with research centred on modelling solute transport in complex systems. Thesis titled "[Modelling of Solute Transport Past a Disordered Uptake Field](https://www.proquest.com/openview/609829995a22d771799a9f3d76e210ef/1?cbl=51922&diss=y&pq-origsite=gscholar)", supervised by [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr. Igor L. Chernyavsky](http://math-biophys.info/wiki/).
 
 Experience includes co-organising the weekly [Informal Applied Seminar](http://events.manchester.ac.uk/calendar/tag:ser-se-maths-appliedinformal/) for postgraduate researchers and serving as treasurer for the [Manchester SIAM-IMA Student Chapter](https://www.maths.manchester.ac.uk/~siam/), promoting applied mathematics and computational science through student-led events and initiatives.
 
