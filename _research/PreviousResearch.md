@@ -1,6 +1,23 @@
 ---
 title: "Previous Research"
-excerpt: "## PhD Thesis - Modelling of Solute Transport Past a Disordered Uptake Field (The University of Manchester, 2017-2021)
+excerpt: "## [Advection-dominated transport past isolated disordered sinks: stepping beyond homogenization](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2022.0032) (Proceedings of the Royal Society A, 2022)
+
+Abstract:
+
+
+We investigate the transport of a solute past isolated sinks in a bounded domain when advection is dominant over diffusion, evaluating the effectiveness of homogenization approximations when sinks are distributed uniformly randomly in space. Corrections to such approximations can be non-local, non-smooth and non-Gaussian, depending on the physical parameters (a Péclet number Pe, assumed large, and a Damköhler number Da) and the compactness of the sinks. In one spatial dimension, solute distributions develop a staircase structure for large Pe, with corrections being better described with credible intervals than with traditional moments. In two and three dimensions, solute distributions are near-singular at each sink (and regularized by sink size), but their moments can be smooth as a result of ensemble averaging over variable sink locations. We approximate corrections to a homogenization approximation using a moment-expansion method, replacing the Green’s function by its free-space form, and test predictions against simulation. We show how, in two or three dimensions, the leading-order impact of disorder can be captured in a homogenization approximation for the ensemble mean concentration through a modification to Da that grows with diminishing sink size.
+
+ 
+
+Authors: [Dr. George F. Price](https://scholar.google.com/citations?user=mfvQbTYAAAAJ&hl=en), [Dr. Igor L. Chernyavsky](http://math-biophys.info/wiki/), and [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/)
+
+ 
+
+Keywords - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena).
+
+
+
+excerpt: "## PhD Thesis - [Modelling of Solute Transport Past a Disordered Uptake Field](https://www.proquest.com/openview/609829995a22d771799a9f3d76e210ef/1?cbl=51922&diss=y&pq-origsite=gscholar) (The University of Manchester, 2017-2021)
 
 Abstract:
 
@@ -27,6 +44,7 @@ Supervisors: [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/sta
  
 
 Keywords - [Asymptotic Homogenisation](https://en.wikipedia.org/wiki/Asymptotic_homogenization), [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Porous Media](https://en.wikipedia.org/wiki/Porous_medium) and [Transport Phenomena](https://en.wikipedia.org/wiki/Transport_phenomena).
+
 
 ## Masters Project - Vibrations of the Trachea During Phonation (The University of Manchester, 2016-2017)
 
