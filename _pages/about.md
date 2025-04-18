@@ -9,12 +9,7 @@ redirect_from:
 ---
 
 ## About
-Good call — yes, totally doable. Here’s a revised, clean and professional version without using "I" as the subject:
-
-
----
-
-Data Scientist at [Niche Health & Social Care Consulting](https://www.nicheconsult.co.uk), specialising in capacity and demand modelling, strategic analytics, and interactive dashboard development to support NHS services across the UK. Projects focus on transforming healthcare data into actionable insights that improve patient care and system efficiency.
+Data Scientist, previously employed at [Niche Health & Social Care Consulting](https://www.nicheconsult.co.uk), specialising in capacity and demand modelling, strategic analytics, and interactive dashboard development to support NHS services across the UK. Projects focus on transforming healthcare data into actionable insights that improve patient care and system efficiency.
 
 Completed a PhD in Applied Mathematics at The University of Manchester, with research centred on modelling solute transport in complex systems. Thesis titled "Modelling of Solute Transport Past a Disordered Uptake Field," supervised by [Prof. Oliver E. Jensen](https://personalpages.manchester.ac.uk/staff/oliver.jensen/) and [Dr. Igor L. Chernyavsky](http://math-biophys.info/wiki/).
 
@@ -24,17 +19,12 @@ Awarded a [Level 4 Data Analyst Apprenticeship](https://www.qa.com/apprenticeshi
 
 ## Qualifications
 
+- **Level 4 Data Analyst Apprenticeship** (QA, 2022-2024)
 - **PhD in Applied Mathematics** (The University of Manchester, 2017-2021)
 - **Masters in Mathematics (MMATH)** - First Class with honours (The University of Manchester, 2013-2017)
 
 ## Contact Details
 
-- **Email** george.price@nicheconsult.co.uk
-
-- **Address** <br/>
-4th Floor, Trafford House, <br/> 
-Chester Rd, <br/> 
-Old Trafford, <br/> 
-M32 0RS.
+- **Email** george.frederick.price@gmail.com
 
 - **[LinkedIn](https://uk.linkedin.com/in/gfprice)**
